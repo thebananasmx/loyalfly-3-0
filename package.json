@@ -1,0 +1,22 @@
+
+{
+  "name": "loyalfly-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.23.1",
+    "lucide-react": "^0.379.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.2",
+    "@types/react-dom": "^18.3.0"
+  },
+  "scripts": {
+    "start": "echo 'Run index.html in a browser'",
+    "build": "echo 'Build script not implemented'",
+    "test": "echo 'Test script not implemented'",
+    "eject": "echo 'Eject script not implemented'"
+  }
+}
